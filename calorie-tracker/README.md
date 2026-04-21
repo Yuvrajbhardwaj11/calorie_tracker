@@ -1,6 +1,6 @@
 # 🍽 Calorie Tracker — by Yuvraj
 
-A full-stack calorie tracking web app built from your C++ project.
+A full-stack calorie tracking web app built from C++ project.
 
 ## Tech Stack
 - **Frontend**: React + Vite
